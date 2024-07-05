@@ -1,5 +1,5 @@
 # 💫 Sobre Mim:
-Me chamo João Vitor.<br>Tenho atualmente 16 anos<br>Moro em Palhoça, Brasil<br>Gosto de fazer academia, programação e jogar jogos<br>Gosto também de estudar assuntos novos que me interessam<br>como filosofia e ed. física.<br>Como meus hobbies eu toco guitarra, treino musculação<br>e falo alguns idiomas como <br>Inglês(intermediário)<br>Espanhol (Intermediário)
+Me chamo João Vitor.<br>Nasci em 2006<br>Moro em Palhoça, Brasil<br>Gosto de fazer academia, programação e jogar jogos<br>Gosto também de estudar assuntos novos que me interessam<br>como filosofia e ed. física.<br>Como meus hobbies eu toco guitarra, treino musculação<br>e falo alguns idiomas como <br>Inglês(intermediário)<br>Espanhol (Intermediário)
 
 ## 🌐 Contato:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/joao_vitor86380) 
